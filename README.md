@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 # My name is Freddy Montes
-### I'm a frontend developer from Costa Rica 🇨🇷
+### I'm a Frontend Developer from Costa Rica 🇨🇷
 
 Working full time in Angular, Typescript and SCSS, leading the team for revamping DotCMS administration system. Also experienced with NextJS, Gatsby, React, Redux, GraphQL, NodeJS and Express.
 
