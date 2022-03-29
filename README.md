@@ -1,6 +1,4 @@
-
-![@fmontes twitter cover](https://user-images.githubusercontent.com/751424/101717208-74769080-3a64-11eb-9068-bd8dc6b6c5e3.png)
-
+![@fmontes github readme](https://user-images.githubusercontent.com/751424/160527727-575f0430-9782-4c1c-b39e-6bc94874bf1f.png)
 
 ### Hi there 👋
 # My name is Freddy Montes
