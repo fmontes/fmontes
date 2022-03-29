@@ -25,8 +25,11 @@ Frontend is my true passion and I really enjoy the whole process of creating UIs
 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fmontes)
+-----
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fmontes&theme=cobalt)
+-----
 ![My stats](https://github-readme-stats.vercel.app/api?username=fmontes&count_private=true&show_icons=true&theme=cobalt)
+-----
 ![Trophy](https://github-profile-trophy.vercel.app/?username=fmontes)
 
 
