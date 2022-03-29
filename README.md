@@ -5,15 +5,36 @@
 # My name is Freddy Montes
 ### I'm a Frontend Developer from Costa Rica 🇨🇷
 
-![@fmontes twitter](https://img.shields.io/twitter/follow/fmontes?style=for-the-badge)
+![@fmontes twitter](https://img.shields.io/twitter/follow/fmontes?style=flat-square&color=00acee)
 
 ### 🔨 What I do
 
-Working full time in Angular, Typescript and SCSS, leading the team for revamping DotCMS administration system. Also experienced with NextJS, Gatsby, React, Redux, GraphQL, NodeJS and Express.
+🖥 I'm currently working as Lead Frontend Developer and soon Product Manager at [dotCMS](https://dotcms.com)
 
-Code, Design, Learn and Teach.
+🐦 I shared content on [Twitter](https://twitter.com/fmontes) and [Instagram](https://instagram.com/fmontes) about frontend and dev jobs and life.
 
-Frontend is my true passion and I really enjoy the whole process of creating UIs, from the first brainstorming, wireframes, mockups, design, all the way until the final product. 
+✏️ I write posts about design and code on [my blog](https://fmontes.com)
+
+📧 I also have a [weekly newsletter](https://https://www.getrevue.co/profile/fmontes)
+
+👨🏽‍🏫 I teach JavaScript on [CETAV](http://www.parquelalibertad.org/cetav/)
+
+---
+
+### Working with
+- Angular
+- Typescript 
+- NextJS
+- Gatsby
+- React
+- Redux
+- GraphQL
+- NodeJS
+- Express
+
+### Product Development
+
+My true passion is **Product Development** and I enjoy all aspects from the initial idea and brainstorming, wireframes, mockups, and designs, business right through to the final product.
 
 ### 📫 You can find me
 - [Twitter](https://twitter.com/fmontes) 🐦
