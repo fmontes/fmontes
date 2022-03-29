@@ -6,7 +6,7 @@
 # My name is Freddy Montes
 ### I'm a Frontend Developer from Costa Rica 🇨🇷
 
-![@fmontes twitter](https://img.shields.io/twitter/follow/fmontes?style=social)
+![@fmontes twitter](https://img.shields.io/twitter/follow/fmontes?style=for-the-badge)
 
 ### 🔨 What I do
 
@@ -24,7 +24,9 @@ Frontend is my true passion and I really enjoy the whole process of creating UIs
 - [Blog](https://fmontes.com) ✒️
 
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fmontes)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fmontes&theme=cobalt)
 ![My stats](https://github-readme-stats.vercel.app/api?username=fmontes&count_private=true&show_icons=true&theme=cobalt)
+![Trophy](https://github-profile-trophy.vercel.app/?username=fmontes)
 
 
