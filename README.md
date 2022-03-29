@@ -5,7 +5,7 @@
 # My name is Freddy Montes
 ### I'm a Frontend Developer from Costa Rica 🇨🇷
 
-![@fmontes twitter](https://img.shields.io/twitter/follow/fmontes?style=flat-square&color=00acee)
+![@fmontes twitter](https://img.shields.io/twitter/follow/fmontes?style=for-the-badge&color=00acee)
 
 ### 🔨 What I do
 
