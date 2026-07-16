@@ -1,55 +1,36 @@
-
-![@fmontes github readme](https://user-images.githubusercontent.com/751424/160527965-bbb55d38-6c42-4b4c-8c6e-7b814eebf83f.png)
-
 ### Hi there 👋
-# My name is Freddy Montes
-### I'm a Frontend Developer from Costa Rica 🇨🇷
+# I'm Freddy Montes
+### Product & AI-driven developer from Costa Rica 🇨🇷
 
-![@fmontes twitter](https://img.shields.io/twitter/follow/fmontes?style=for-the-badge&color=00acee)
+[![X / Twitter](https://img.shields.io/badge/follow-@fmontes-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fmontes)
+[![Website](https://img.shields.io/badge/fmontes.com-1a1a1a?style=for-the-badge&logo=safari&logoColor=white)](https://fmontes.com)
 
 ### 🔨 What I do
 
-🖥 I'm currently working as Lead Frontend Developer and soon Product Manager at [dotCMS](https://dotcms.com)
+🧭 **Product** at [dotCMS](https://dotcms.com) — I love the whole arc: idea, brainstorming, wireframes, design, and shipping the final thing.
 
-🐦 I shared content on [Twitter](https://twitter.com/fmontes) and [Instagram](https://instagram.com/fmontes) about frontend and dev jobs and life.
+🤖 I build **AI-driven developer tools and agents**, and I code most things with agents in the loop.
 
-✏️ I write posts about design and code on [my blog](https://fmontes.com)
+✏️ I write about design, code, and building on [my blog](https://fmontes.com).
 
-📧 I also have a [weekly newsletter](https://https://www.getrevue.co/profile/fmontes)
+### 🧰 Working with
 
-👨🏽‍🏫 I teach JavaScript on [CETAV](http://www.parquelalibertad.org/cetav/)
+`TypeScript` · `Angular` · `Next.js` · `React` · `Node.js` · `Python` · `GraphQL` · `Claude / Agents & MCP`
+
+### 🚀 A few things I'm building
+
+- [ready-video](https://github.com/fmontes/ready-video) — zero-config talking-head prep for shorts, reels & TikToks
+- [dotfiles](https://github.com/fmontes/dotfiles) — from factory reset to coding in five minutes
+- [md2clip](https://github.com/fmontes/md2clip) — pipe markdown, get HTML on your clipboard
+- [web-to-epub](https://github.com/fmontes/web-to-epub) — turn any webpage into an epub
+
+### 📫 Find me
+
+[![Website](https://img.shields.io/badge/Website-fmontes.com-333?style=flat-square&logo=safari&logoColor=white)](https://fmontes.com)
+[![X](https://img.shields.io/badge/X-@fmontes-333?style=flat-square&logo=x&logoColor=white)](https://x.com/fmontes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fmontes-333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fmontes)
 
 ---
 
-### Working with
-- Angular
-- Typescript 
-- NextJS
-- Gatsby
-- React
-- Redux
-- GraphQL
-- NodeJS
-- Express
-
-### Product Development
-
-My true passion is **Product Development** and I enjoy all aspects from the initial idea and brainstorming, wireframes, mockups, and designs, business right through to the final product.
-
-### 📫 You can find me
-- [Twitter](https://twitter.com/fmontes) 🐦
-- [Instagram](https://instagram.com/fmontes) 📸
-- [LinkedIn](https://linkedin.com/in/fmontes) 💼
-- [Website](https://fmontes.com) 🌍
-- [Blog](https://fmontes.com) ✒️
-
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fmontes)
------
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fmontes&theme=cobalt)
------
 ![My stats](https://github-readme-stats.vercel.app/api?username=fmontes&count_private=true&show_icons=true&theme=cobalt)
------
-![Trophy](https://github-profile-trophy.vercel.app/?username=fmontes)
-
-
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fmontes&layout=compact&theme=cobalt)
