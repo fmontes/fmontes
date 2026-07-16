@@ -27,8 +27,3 @@
 [![Website](https://img.shields.io/badge/Website-fmontes.com-333?style=flat-square&logo=safari&logoColor=white)](https://fmontes.com)
 [![X](https://img.shields.io/badge/X-@fmontes-333?style=flat-square&logo=x&logoColor=white)](https://x.com/fmontes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fmontes-333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fmontes)
-
----
-
-![My stats](https://github-readme-stats.vercel.app/api?username=fmontes&count_private=true&show_icons=true&theme=cobalt)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fmontes&layout=compact&theme=cobalt)
