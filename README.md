@@ -11,8 +11,6 @@
 
 🤖 I build **AI-driven developer tools and agents**, and I code most things with agents in the loop.
 
-✏️ I write about design, code, and building on [my blog](https://fmontes.com).
-
 ### 🧰 Working with
 
 `TypeScript` · `Angular` · `Next.js` · `React` · `Node.js` · `Python` · `GraphQL` · `Claude / Agents & MCP`
