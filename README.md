@@ -18,6 +18,7 @@
 ### 🚀 A few things I'm building
 
 - [ready-video](https://github.com/fmontes/ready-video) — zero-config talking-head prep for shorts, reels & TikToks
+- [insta360-link-cli](https://github.com/fmontes/insta360-link-cli) — control the Insta360 Link 2 webcam from your terminal, no slow app
 - [dotfiles](https://github.com/fmontes/dotfiles) — from factory reset to coding in five minutes
 - [md2clip](https://github.com/fmontes/md2clip) — pipe markdown, get HTML on your clipboard
 - [web-to-epub](https://github.com/fmontes/web-to-epub) — turn any webpage into an epub
